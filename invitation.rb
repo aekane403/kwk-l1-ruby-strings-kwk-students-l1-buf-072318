@@ -23,3 +23,4 @@ time= gets.chomp
 
 puts "who is the host?"
 host_name = gets.chomp
+
